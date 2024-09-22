@@ -1,0 +1,10 @@
+new york
+london
+paris
+tokyo
+berlin
+madrid
+sydney
+moscow
+dubai
+toronto
