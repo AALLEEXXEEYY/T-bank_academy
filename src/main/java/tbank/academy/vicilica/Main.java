@@ -44,7 +44,7 @@ public class Main {
         return themeLink;
     }
 
-    private static String choiceLevel(Scanner scanner) {
+    public static String choiceLevel(Scanner scanner) {
         String level;
         while (true) {
             System.out.println("Choose level (junior, middle, senior):");
@@ -59,7 +59,7 @@ public class Main {
         return level;
     }
 
-    private static String getFilenameForTheme(String theme) {
+    public static String getFilenameForTheme(String theme) {
         switch (theme) {
             case "animals":
                 return "src\\main\\resources\\animals.txt";
