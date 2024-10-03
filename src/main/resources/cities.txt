@@ -1,10 +1,10 @@
-new york
-london
-paris
-tokyo
-berlin
-madrid
-sydney
-moscow
-dubai
-toronto
+singapore,Сity-state, global financial center in Asia
+london,The capital city of the United Kingdom
+paris,The capital of France
+tokyo,The bustling capital of Japan
+berlin,The capital city of Germany
+madrid,The capital of Spain, famous for its art museums and royal palace
+sydney,An Australian city known for the Sydney Opera House and Harbour Bridge
+moscow,The capital of Russia, known for its Kremlin and Red Square
+dubai,A futuristic city in the United Arab Emirates, known for its skyscrapers
+toronto,The largest city in Canada, famous for its CN Tower and diverse culture

@@ -13,7 +13,7 @@ public enum Prints {
         }
 
     },
-    // +палка сверху
+    // + палка сверху
     ONE {
         @Override
         public String toString() {
