@@ -1,0 +1,10 @@
+apple,A popular fruit, often associated with health and knowledge
+banana,Monkey loves it
+orange,A citrus fruit with high vitamin C content
+strawberry,A small red fruit with seeds on the outside
+grape,Small, round fruits used to make wine or eaten fresh
+watermelon,A large, green fruit with red, juicy flesh inside
+pear,A sweet fruit with a teardrop shape, often green or yellow
+mango,A tropical fruit with sweet, orange flesh, native to South Asia
+peach,A soft, fuzzy fruit with sweet, juicy flesh, often enjoyed in pies
+cherry,A small, round, red fruit, often used as a dessert topping

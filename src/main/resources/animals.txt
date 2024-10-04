@@ -1,0 +1,10 @@
+elephant,A large animal with a trunk
+tiger,A big cat with orange fur and black stripes
+lion,The 'king of the jungle
+giraffe,Animal, with a long neck
+panda,A black and white bear
+zebra,Animal like horse with black and white stripes
+kangaroo,Animal with bag
+koala,A tree-dwelling marsupial from Australia, known for its eucalyptus diet
+monkey,This animal loves bananas
+whale,The largest animal living in the oceans
